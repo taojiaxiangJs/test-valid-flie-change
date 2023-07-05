@@ -1,0 +1,19 @@
+{
+  "name": "test-valid-flie-change",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js PLATFORM=mp-weixin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taojiaxiangJs/test-valid-flie-change.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taojiaxiangJs/test-valid-flie-change/issues"
+  },
+  "homepage": "https://github.com/taojiaxiangJs/test-valid-flie-change#readme"
+}
